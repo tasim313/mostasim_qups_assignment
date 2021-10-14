@@ -6,4 +6,4 @@ At first open your terminal and install Selenium
 install pyperclip
 => pip install pyperclip
 
-test case we have insstall allure and pytest python packages
+test case we have install allure and pytest python packages
